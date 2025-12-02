@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=003366&height=300&section=header&text=Seoyoung%20Lee&fontColor=FFFFFF&fontSize=80&&fontAlign=65&fontAlignY=40&desc=｡･:*:･ﾟ★,｡･:*:･ﾟ☆@Si159521｡･:*:･ﾟ★,｡･:*:･ﾟ☆&descAlign=70)
 <br><br>
+
+<div align="center">
+  
 # 🛠 Tech Stack 🛠
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
@@ -19,3 +22,6 @@
 <br>
 
 # 💡 About Me 💡
+
+
+</div>
